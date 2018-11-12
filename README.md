@@ -10,6 +10,7 @@ This repository contains the files for my capstone project 2 on Academic Paper R
 - Capstone2_Final_Report.pdf: Project's final report
 - Capstone2_Presentation.pdf: Project's presentation
 - Capstone2_Proposal.pdf: Project's initial proposal
+- Data: Data scrapped from PubMed
 
 The recommender.ipynb file can be found on databricks through the following link:
 
