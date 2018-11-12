@@ -2,9 +2,8 @@
 
 The aim of this project is to create a recommender system to help researchers and scientists find related articles to a specific paper. There are thousands of papers published everyday and it is not feasible for a researcher to browse all these papers in order to find a related paper to a desired subject. This recommender system helps scientists with their search and saves them a lot of time looking into article resources. 
 
-This repository contains the files for my capstone project 2 on Academic Paper Recommender.
+This repository contains the files for my capstone project 2 on Academic Paper Recommender. The files are as follows:
 
-The files are as follows:
 - getData.ipynb: Code for scraping the data from PubMed
 - recommender.ipynb:  Code in jupyter-notebook for finding the recommended papers for a given paper
 - Capstone2_MilestoneReport.pdf: Milestone report
