@@ -12,7 +12,7 @@ This repository contains the files for my capstone project 2 on Academic Paper R
 - Capstone2_Proposal.pdf: Project's initial proposal
 - Data: Data scrapped from PubMed
 
-The recommender.ipynb file can be found on databricks through the following link:
+The recommender.ipynb file can also be found on databricks through the following link:
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3313713868604290/2162429554180729/1305817407296456/latest.html
 
